@@ -19,7 +19,7 @@ fi
 [tools]
 "npm:agent-browser" = { version = "latest", allow_builds = ["agent-browser"] }
 "npm:playwright" = "latest"
-node = "lts"
+node = "24.22.1"
 swift = "6.3.3"
 swiftlint = "latest"
 gitleaks = "latest"
